@@ -1,3 +1,12 @@
 # Website_Pemesanan_TiketTravel
 
-Halo, perkenalkan nama saya Bagas Prasetio. Saya berasal dari SMK Adi Sanggoro jurusan Rekayasa Perangkat Lunak. Saya lagi berusaha untuk mempelajari dunia pemrograman nih! mohon bantuan dan dukungannya ya dari kalian, semoga doa baik tersebut berbalik ke kalian juga, hehe. Terima kasih telah membaca file ini.
+Website ini dibangun oleh HTML, CSS, PHP Native, Bootstrap, MySQL, dan sedikit JavaScript. 
+\n\n
+Sedikit cerita, website ini dibuat pada kegiatan Prakerin (Praktek Kerja Industri) di PT. Lingkar 9 Titian Media pada bulan Oktober s/d bulan Desember tahun 2020 kemarin. Kami dibentuk sebuah kelompok oleh sekolah yang beranggotakan 4 orang untuk menyelesaikan project ini. Saya diamanahkan untuk menjadi ketua.
+\n\n
+Mungkin project ini bisa membantu dalam mencari ide untuk project kalian juga, kami juga menerima kritik dan saran dari kalian. Feel free to correct, ya! 
+\n
+Contact me : bagasprasetio52@gmail.com
+\n\n\n
+
+Made with ❤ by Kelompok 4
